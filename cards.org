@@ -24,4 +24,14 @@
 *** What is the etymology of the word /Philosophy/
     Love of wisdom
 ** Lecture 3 - Pythagoras and the Divinity of Number
+*** Pythagoras lived in the _____ century  
+    6th BC - 570-495 BC
+*** Pythagoras thought "the body is the material manifestation of something that _____
+    ...is, fundamentally, not material but relational."
+*** Pythagorean Theorem is that
+    \begin{equation}
+    a^2+b^2=c^2
+    \end{equation}
+** Lecture 4 - What is There?
+***  
   
