@@ -33,5 +33,22 @@
     a^2+b^2=c^2
     \end{equation}
 ** Lecture 4 - What is There?
-***  
+*** The word metaphysics derives from the writings of _____ and means _____
+    Aristotle, “after the physics,”
+*** What questions does metaphysics ask?
+    "What is there?" and "How do I know?"
+*** What are the two branches of metaphysics?
+    Epistemology and Ontology
+*** What are the two methods of exploring "What is there?"
+    Rationalistic and perception
+*** What is epistemology?
+    Exploration of "How do I know?". The study of criticism, and refinement of our modes of knowing. What is our method of discover for discoering the truth about the world?
+*** What is epistemic justification? 
+    How do we justify our beliefs? Eg. that the rules of math and physics would be the same tomorrow as today
+*** What is the materialist answer Democritus of Abdera gives to what it means for something to exist?
+    That everything that exists is made of indivisible atoms, including thoughts and dreams.
+*** In the Dialogs of Plato, Protagoras says "Man is the measure of all things". What does this mean?
+    Perception determines the reality of each person. One person's reality can claim as much ontological validity as any other. The only grounding is the experiences of one's lifetime.
+** Lecture 5 - The Greek Tragedians on Man's Fate
+***   
   
